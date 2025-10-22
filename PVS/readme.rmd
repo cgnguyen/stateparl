@@ -1,0 +1,6 @@
+This is the analysis code for the empirical applications of 
+"Decoding German Politics with StateParl – a text corpus of plenary protocols in the 16 German Länder parliaments"
+
+This code can also be adapted to own analytical applications 
+Important: This analysis may take a fairly long time on regular machines. 
+Use sample = TRUE runs a subset analysis that is faster. For full replication set this to FALSE
